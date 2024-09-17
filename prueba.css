@@ -1,0 +1,14 @@
+.items{
+    background-color: blueviolet;
+    border: solid black 1px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.alto{
+    height: 120px;
+}
+
+.conteiner-fluid{
+    margin-top: 3em;
+}
